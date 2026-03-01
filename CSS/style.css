@@ -3,8 +3,9 @@ html
 
 h1 {
     color: black;
-    font: 3em sans-serif;
-    font-style: bold,italic;
+    font: 2em sans-serif;
+    font-style: italic;
+    font-weight: bold;
 }
 
 p{
@@ -16,5 +17,5 @@ section{
 }
 
 nav{
-    font-style: bold;
+    font-weight: bold;
 }
