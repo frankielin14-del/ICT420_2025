@@ -4,9 +4,17 @@ html
 h1 {
     color: black;
     font: 2em sans-serif;
+    font-style: bold,italic;
 }
 
 p{
-    color: black;
+    color:black;
 }
 
+section{
+    background-color: beige;
+}
+
+nav{
+    font-style: bold;
+}
