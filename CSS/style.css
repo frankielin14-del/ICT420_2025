@@ -6,25 +6,26 @@ html
 
 h1 {
     color: black;
-    font: 2em sans-serif;
+    font: 1em sans-serif;
     font-style: italic;
     font-weight: 900;
+    margin: auto;
 }
 
 p{
     background-color: beige;
     color:black;
-    border: 2em solid black;
+    border: 1em solid black;
 }
 
 section{
-    border: 2em solid black;
+    border: 1em solid black;
     background-color: beige;
-    padding:2em;
+    padding:1em;
 }
 
 nav ul {
-    border: 2em solid black;
+    border: 1em solid black;
     font-weight: 900;
     margin: auto;
 }
