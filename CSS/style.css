@@ -6,7 +6,7 @@ html
 
 h1 {
     color: black;
-    font: 1em sans-serif;
+    font: 2em sans-serif;
     font-style: italic;
     font-weight: 900;
     margin: auto;
@@ -15,17 +15,17 @@ h1 {
 p{
     background-color: beige;
     color:black;
-    border: 1em solid black;
+    border: 2rem solid black;
 }
 
 section{
-    border: 1em solid black;
+    border: 2rem solid black;
     background-color: beige;
-    padding:1em;
+    padding:2rem;
 }
 
 nav ul {
-    border: 1em solid black;
+    border: 2rem solid black;
     font-weight: 900;
     margin: auto;
 }
