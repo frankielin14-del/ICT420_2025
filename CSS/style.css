@@ -1,7 +1,7 @@
 html
 { background-color:#92e2fc;
 margin: auto;
-width: 100vw;
+width: 90vw;
 
 }
 
@@ -11,22 +11,23 @@ h1 {
     font-style: italic;
     font-weight: 900;
     margin: auto;
+    padding: 2rem;
 }
 
 p{
     background-color: beige;
     color:black;
-    border: 2rem solid black;
+    border: 1em solid black;
 }
 
 section{
-    border: 2rem solid black;
+    border: 1em solid black;
     background-color: beige;
     padding:2rem;
 }
 
 nav ul {
-    border: 2rem solid black;
+    border: 1em solid black;
     font-weight: 900;
     margin: auto;
 }
