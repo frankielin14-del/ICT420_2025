@@ -1,6 +1,7 @@
 html
 { background-color:#92e2fc;
 margin: auto;
+width: 100vw;
 
 }
 
@@ -30,9 +31,7 @@ nav ul {
     margin: auto;
 }
 
-/*header > h1 {
-    margin: auto;
-}
+
 
 /* {
   border: 1px solid black;
