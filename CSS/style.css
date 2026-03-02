@@ -1,5 +1,6 @@
 html
-{ background-color:#92e2fc;}
+{ background-color:#92e2fc;
+}
 
 h1 {
     color: black;
@@ -17,9 +18,15 @@ section{
 }
 
 nav a {
+    display: block;
     font-weight: 900;
+    margin: auto;
 }
 
-* {
+header > h1 {
+    margin: auto;
+}
+
+/* {
   border: 1px solid black;
 }
