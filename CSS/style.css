@@ -35,18 +35,32 @@ nav ul {
 }
 
 
+
 .intro-section {
   width: 400px; 
   border: 2px solid black;
-  margin: 20px 0;
+  padding: 10px;
+  margin: 20px auto;
 }
 
-.nested-demo {
-  width: 100%;           
-  padding: 30px;         
-  background-color: lightgrey;
+
+.overflow-box, .fixed-box {
+  width: 100%;
+  padding: 40px; 
+  margin-bottom: 10px;
   border: 2px solid blue;
-   
+}
+
+
+.overflow-box {
+  background-color: burlywood; 
+  box-sizing: content-box;   
+}
+
+
+.fixed-box {
+  background-color: gray; 
+  box-sizing: border-box;    
 }
 
 /* {
