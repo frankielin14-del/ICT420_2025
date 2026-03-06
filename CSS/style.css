@@ -3,15 +3,30 @@ html
 margin: auto;
 width: 90vw;
 font-size: 16px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 100%;
+
 }
 
 h1 {
     color: black;
     font: 2em sans-serif;
+    font-style: Bold;
+    font-weight: 900;
+    margin: auto;
+    padding: 1em;
+
+   
+}
+
+h2{
+  color: black;
+    font: 2em sans-serif;
     font-style: italic;
     font-weight: 900;
     margin: auto;
     padding: 1em;
+    text-align: center;
 }
 
 p{
@@ -19,8 +34,10 @@ p{
     color:black;
     border: 2px solid black;
     padding: 1em;
+    text-indent: 15px;
+    line-height: 1.6;
     
-}
+  }
 
 section{
     border: 2px solid black;
