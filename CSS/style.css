@@ -15,7 +15,7 @@ h1 {
     font-weight: 900;
     padding: 1em;
     text-align: center;
-
+    background: linear-gradient(36deg, blue, whites);
 }
 
 h2{
@@ -77,6 +77,10 @@ nav ul {
 .fixed-box {
   background-color: gray; 
   box-sizing: border-box;    
+}
+
+.numbers{
+  list-style-type: lower-roman;
 }
 
 /* {
