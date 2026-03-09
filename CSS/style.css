@@ -16,6 +16,7 @@ h1 {
     padding: 1em;
     text-align: center;
     background: linear-gradient(36deg, blue, whites);
+    border: 2px solid black;
 }
 
 h2{
