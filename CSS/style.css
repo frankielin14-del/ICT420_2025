@@ -84,6 +84,13 @@ nav ul {
   list-style-type: lower-roman;
 }
 
+picture{
+  float: left;
+  border: 2px solid black;
+  
+}
+
+
 /* {
   border: 1px solid black;
 }
