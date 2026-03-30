@@ -49,9 +49,10 @@ nav ul {
     font-weight: 900;
     margin: auto;
     display: flex;
-    flex-flow: row wrap;
-    justify-content: flex-start;
-    gap: 30px;
+    list-style-type: none;
+    justify-content: space-between;
+    margin: 0;
+    padding: 10px;
 }
 
 
