@@ -49,9 +49,7 @@ nav ul {
     font-weight: 900;
     margin: auto;
     display: flex;
-    list-style-type: none;
     justify-content: space-between;
-    margin: 0;
     padding: 10px;
 }
 
