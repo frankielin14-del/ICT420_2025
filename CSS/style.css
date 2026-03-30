@@ -49,7 +49,9 @@ nav ul {
     font-weight: 900;
     margin: auto;
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    gap: 30px;
 }
 
 
