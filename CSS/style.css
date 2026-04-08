@@ -49,8 +49,9 @@ nav ul {
     font-weight: 900;
     margin: auto;
     display: flex;
-    justify-content: space-between;
-    padding: 50px;
+    justify-content: space-around; 
+    padding: 20px; 
+    flex-wrap: wrap; 
 }
 
 
@@ -109,7 +110,7 @@ min-width: 300px;
 
 .info{
   flex: 1;
-  min-width: 200;
+  min-width: 200px;
   padding: 10px;
 }
 
